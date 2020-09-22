@@ -1,0 +1,4 @@
+C:\Users\c48765\source\repos\DockerApplication\DockerApplication\obj\Debug\netcoreapp2.0\DockerApplication.csprojAssemblyReference.cache
+C:\Users\c48765\source\repos\DockerApplication\DockerApplication\obj\Debug\netcoreapp2.0\DockerApplication.csproj.CoreCompileInputs.cache
+C:\Users\c48765\source\repos\DockerApplication\DockerApplication\obj\Debug\netcoreapp2.0\DockerApplication.AssemblyInfoInputs.cache
+C:\Users\c48765\source\repos\DockerApplication\DockerApplication\obj\Debug\netcoreapp2.0\DockerApplication.AssemblyInfo.cs
